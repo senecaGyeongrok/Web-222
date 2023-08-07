@@ -1,3 +1,4 @@
 # Web-222
 
-# This is my fianl assessment second semester using Html, CSS, javascript
+# This is my final second-semester assessment using Html, CSS, and javascript.
+
